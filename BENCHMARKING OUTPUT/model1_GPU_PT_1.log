@@ -1,13 +1,13 @@
 world size: 1, current rank: 0, local rank: 0
 Using 1 GPU(s)...
 time/loss/accuracy (if enabled):
-Finished training it 1/10 of epoch 0, 933.05 ms/it, loss 0.135097
-Finished training it 2/10 of epoch 0, 45.91 ms/it, loss 0.222374
-Finished training it 3/10 of epoch 0, 43.87 ms/it, loss 0.249624
-Finished training it 4/10 of epoch 0, 45.85 ms/it, loss 0.248821
-Finished training it 5/10 of epoch 0, 46.78 ms/it, loss 0.172436
-Finished training it 6/10 of epoch 0, 44.09 ms/it, loss 0.138745
-Finished training it 7/10 of epoch 0, 52.12 ms/it, loss 0.126275
-Finished training it 8/10 of epoch 0, 46.85 ms/it, loss 0.171511
-Finished training it 9/10 of epoch 0, 51.39 ms/it, loss 0.237229
-Finished training it 10/10 of epoch 0, 55.44 ms/it, loss 0.129343
+Finished training it 1/10 of epoch 0, 785.38 ms/it, loss 0.135097
+Finished training it 2/10 of epoch 0, 58.28 ms/it, loss 0.222374
+Finished training it 3/10 of epoch 0, 72.14 ms/it, loss 0.249624
+Finished training it 4/10 of epoch 0, 42.26 ms/it, loss 0.248821
+Finished training it 5/10 of epoch 0, 77.87 ms/it, loss 0.172436
+Finished training it 6/10 of epoch 0, 43.73 ms/it, loss 0.138745
+Finished training it 7/10 of epoch 0, 57.75 ms/it, loss 0.126275
+Finished training it 8/10 of epoch 0, 44.68 ms/it, loss 0.171511
+Finished training it 9/10 of epoch 0, 51.05 ms/it, loss 0.237229
+Finished training it 10/10 of epoch 0, 61.23 ms/it, loss 0.129343
